@@ -1,0 +1,2228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Thesis 1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-09 10:50-0600\n"
+"PO-Revision-Date: 2010-09-09 10:52-0600\n"
+"Last-Translator: Chris Pearson <diythemes@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/pearsonified/Desktop/thesis_18\n"
+
+#: /Users/pearsonified/Desktop/thesis_18/comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:20
+msgid "Thesis"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:21
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:226
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:241
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:258
+msgid "Site Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:22
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:230
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:245
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:270
+msgid "Design Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:23
+msgid "Header Image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:24
+msgid "Favicon Uploader"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:25
+msgid "Custom File Editor"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:26
+msgid "Manage Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:54
+#, php-format
+msgid "You are rocking Thesis version <strong>%1$s</strong>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:59
+msgid "Big Ass Toggle Switch"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:66
+msgid "Thesis news plus tutorials and advice from Thesis pros!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:66
+msgid "Thesis Blog"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:67
+msgid "Documentation, tutorials, and how-tos that will help you get the most out of Thesis"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:67
+msgid "User&#8217;s Guide"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:68
+msgid "Stuck? Don&#8217;t worry&#8212;you can find expert help in our support forums."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:68
+msgid "Support Forums"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:69
+msgid "Join the Thesis Affiliate Program and earn money selling Thesis!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:69
+msgid "Affiliate Program"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:78
+msgid "Options updated!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:78
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:95
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:97
+msgid "Check out your site &rarr;"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:83
+#, php-format
+msgid "Nicely done&#8212;Thesis <strong>%1$s</strong> is ready to rock. Take a moment to browse around the options panels and check out the new awesomeness, or simply <a href=\"%2$s\">check out your site now</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:95
+msgid "<strong>Attention!</strong> In order to take advantage of all the controls that Thesis offers, you need to change the name of your <code>custom-sample</code> folder to <code>custom</code>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:99
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:29
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:31
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:33
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:35
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:153
+msgid "Attention!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:99
+msgid "Your <code>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/admin.php:106
+msgid "Big Ass Save Button"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:29
+msgid "For security reasons, the file you are attempting to edit cannot be modified via this screen."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:31
+msgid "Your <code>custom/</code> directory does not appear to exist. Have you remembered to rename <code>/custom-sample</code>?"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:33
+msgid "The file you are attempting does not appear to exist."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:35
+#, php-format
+msgid "Your <code>/custom/%s</code> file is not writable by the server, and in order to modify the file via the admin panel, Thesis needs to be able to write to this file. All you have to do is set this file&#8217;s permissions to 666, and you&#8217;ll be good to go."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:47
+msgid "Easy there, homey. You don&#8217;t have admin privileges to access theme options."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:58
+msgid "You have attempted to modify an ineligible file. Only files within the Thesis <code>/custom</code> folder may be modified via this interface. Thank you."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:85
+msgid "Thesis Custom File Editor"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:92
+msgid "Oooh, Exciting!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:93
+msgid "It&#8217;s time to upgrade your Thesis, which means there&#8217;s new awesomeness in your immediate future. Click the button below to fast-track your way to the awesomeness!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:94
+msgid "Upgrade Thesis"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:122
+#, php-format
+msgid "Currently editing: <code>%s</code>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:132
+msgid "Edit selected file"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:136
+msgid "<strong>Note:</strong> If you make a mistake in your code while modifying a <acronym title=\"PHP: Hypertext Preprocessor\">PHP</acronym> file, saving this page <em>may</em> result your site becoming temporarily unusable. Prior to editing such files, be sure to have access to the file via <acronym title=\"File Transfer Protocol\">FTP</acronym> or other means so that you can correct the error."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:146
+msgid "quick color reference"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/file_editor.php:153
+msgid "In order to edit your custom files, you&#8217;ll need to change the name of your <code>custom-sample</code> folder to <code>custom</code>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:25
+msgid "Image Upload Error"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:39
+msgid "Your image could not be processed. Please go back and try again."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:39
+msgid "Image Processing Error"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:91
+msgid "Thesis Header Image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:95
+msgid "Header image updated!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:97
+msgid "Header image removed!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:99
+msgid "<strong>Whoops!</strong> You tried to upload an unrecognized file type. The header image uploader only accepts <code>.jpg</code>, <code>.png</code>, or <code>.gif</code> files."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:102
+msgid "Click here to remove this header image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:102
+msgid "Remove Image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:106
+#, php-format
+msgid "Based on your <a href=\"%1$s\">current layout settings</a>, the optimal header image width is <strong>%2$d pixels</strong>. If your image is wider than this, don&#8217;t worry&#8212;Thesis will automatically resize it for you!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/header_image.php:109
+msgid "Choose an image from your computer:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:178
+#, php-format
+msgid "<strong>Oh noez!</strong> There was an error with the file upload. Please try it again, or else download a new, valid %s Options file."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:184
+#, php-format
+msgid "<strong>Whoa there!</strong> The %1$s Options you attempted to upload are from version %2$s and are not compatible with Thesis %3$s."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:190
+#, php-format
+msgid "<strong>Whoa there!</strong> The %1$s Options you attempted to upload are not compatible with Thesis %2$s."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:195
+#, php-format
+msgid "<strong>Whoops!</strong> The file you attempted to upload is not a valid %1$s Options file. Please try uploading the file again, or else download a new, valid %1$s Options file."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:201
+#, php-format
+msgid "%1$s restored! <a href=\"%2$s\">Check out your site &rarr;</a>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:206
+#, php-format
+msgid "%1$s Options imported! <a href=\"%2$s\">Check out your site &rarr;</a>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:216
+msgid "Thesis Options Manager"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:224
+msgid "Download Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:234
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:249
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:282
+msgid "All Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:239
+msgid "Restore Default Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_manager.php:256
+msgid "Upload Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:188
+msgid "<acronym title=\"Search Engine Optimization\">SEO</acronym> Details and Additional Style"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:196
+msgid "Custom Title Tag"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:197
+msgid "By default, Thesis uses the title of your post as the contents of the <code>&lt;title&gt;</code> tag. You can override this and further extend your on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> by entering your own <code>&lt;title&gt;</code> tag below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:198
+msgid "custom <code>&lt;title&gt;</code> tag"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:199
+msgid "Search engines allow a maximum of 70 characters for the title."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:208
+msgid "Meta Description"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:209
+msgid "Entering a <code>&lt;meta&gt;</code> description is just one more thing you can do to seize an on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Keep in mind that a good <code>&lt;meta&gt;</code> description is both informative and concise."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:210
+msgid "<code>&lt;meta&gt;</code> description"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:211
+msgid "Search engines allow a maximum of roughly 150 characters for the description."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:222
+msgid "force search engines to pull a <code>&lt;meta&gt;</code> description based on the content of the page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:231
+msgid "Meta Keywords"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:232
+msgid "Like the <code>&lt;meta&gt;</code> description, <code>&lt;meta&gt;</code> keywords are yet another on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Enter a few keywords that are relevant to your article, but don&#8217;t go crazy here&#8212;just a few should suffice."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:233
+msgid "<code>&lt;meta&gt;</code> keywords"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:242
+msgid "<code>noindex</code> this page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:243
+msgid "<code>nofollow</code> this page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:244
+msgid "<code>noarchive</code> this page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:249
+msgid "Robots Meta Tags"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:250
+#, php-format
+msgid "Fine-tune the <acronym title=\"Search Engine Optimization\">SEO</acronym> on every page of your site using the handy robots meta tag selectors below. For a detailed description of what each option does, check out the <a href=\"%s\">Document Head section</a> of the Thesis Options."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:260
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> Class"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:261
+msgid "If you want to style this post individually via <acronym title=\"Cascading Style Sheet\">CSS</acronym>, you should enter a class name below. <strong>Note</strong>: <acronym title=\"Cascading Style Sheet\">CSS</acronym> class names cannot begin with numbers!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:262
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> class name"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:271
+msgid "&ldquo;Read More&rdquo; Text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:272
+msgid "If you use <code>&lt;!--more--&gt;</code> within your post, you can specify custom &ldquo;Read More&rdquo; text; otherwise, whatever is set in the global Thesis Options will be used."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:273
+msgid "use custom &ldquo;Read More&rdquo; text for this entry"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:282
+msgid "301 Redirect for this Page&#8217;s <acronym title=\"Uniform Resource Locator\">URL</acronym>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:283
+msgid "Use this handy tool to set up nice-looking affiliate links for your site. If you place a <acronym title=\"Uniform Resource Locator\">URL</acronym> in the field below, users will get redirected to this <acronym title=\"Uniform Resource Locator\">URL</acronym> whenever they visit the <acronym title=\"Uniform Resource Locator\">URL</acronym> defined in the <strong>Permalink</strong> above (located beneath the post title field). <strong>Remember</strong>: The permalink is the <acronym title=\"Uniform Resource Locator\">URL</acronym> that you&#8217;ll give to users when you want to send them to the <acronym title=\"Uniform Resource Locator\">URL</acronym> in the field below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:284
+msgid "destination <acronym title=\"Uniform Resource Locator\">URL</acronym>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:292
+msgid "Post Image and Thumbnail"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:300
+msgid "Post Image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:301
+#, php-format
+msgid "To add a post image, simply upload an image with the <em>Add an Image</em> button above, and then paste the <strong>Link <acronym title=\"Uniform Resource Locator\">URL</acronym></strong> here. If you like, you can also add your own <code>alt</code> text for the image in the appropriate field below. Based on the current width of your content column, the maximum width for post images is %1$s pixels. Based on your content width <em>and</em> current font size settings, the maximum width for framed post images is %2$s pixels. Finally, there are certain areas around the theme where full-size post images cannot be displayed. In this case, Thesis will automatically crop your post image into a thumbnail with default dimensions as specified on the <a href=\"%3$s\">Thesis Options</a> page. If you like, you can override this (on this post only) by specifying your own thumbnail dimensions below. Please note that automatic thumbnail generation requires your image to be hosted at <strong>%4$s</strong>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:302
+msgid "post image <acronym title=\"Uniform Resource Locator\">URL</acronym> (including <code>http://</code>)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:313
+msgid "post image <code>alt</code> text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:322
+msgid "frame this post image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:323
+msgid "do not frame this post image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:330
+msgid "add a frame to this post image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:339
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:415
+msgid "flush left with no text wrap"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:340
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:416
+msgid "left with text wrap"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:341
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:417
+msgid "right with text wrap"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:342
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:418
+msgid "centered (no wrap)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:347
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:423
+msgid "Horizontal Position"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:358
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:434
+msgid "above headline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:359
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:435
+msgid "below headline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:360
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:436
+msgid "before post/page content"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:365
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:441
+msgid "Vertical Position"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:376
+msgid "Thumbnail Image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:377
+msgid "If you like, you can supply your own thumbnail image. If you do this, the new thumbnail image will not be cropped, so make sure that you size the image appropriately before adding it here."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:378
+msgid "thumbnail image <acronym title=\"Uniform Resource Locator\">URL</acronym> (including <code>http://</code>)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:389
+msgid "thumbnail image <code>alt</code> text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:398
+msgid "frame this thumbnail image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:399
+msgid "do not frame this thumbnail image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:406
+msgid "add a frame to this thumbnail image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:452
+msgid "Thumbnail Size Dimensions"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:453
+#, php-format
+msgid "If you&#8217;ve supplied a post image for this post but have not supplied your own thumbnail image, Thesis will auto-crop your post image into a thumbnail. The resulting thumbnail will be cropped to the dimensions specified below. If you&#8217;d like to change the default crop dimensions, you can do so on the <a href=\"%1$s\">Thesis Options</a> page."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:454
+msgid "width (px)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:465
+msgid "height (px)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:473
+msgid "JavaScript"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:481
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:482
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:483
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:484
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:485
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:486
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:487
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:488
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:489
+#, php-format
+msgid "%1$s library <a href=\"%2$s\" target=\"_blank\">[?]</a>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:494
+msgid "Include JavaScript Libraries"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:495
+msgid "Need to add some JavaScript for killer functionality on this page? Use the controls below to add lightning-fast, cached JavaScript libraries as needed!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:505
+msgid "Embed Your Own JavaScript"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:506
+msgid "Add any JavaScript you like to the box below, but remember to include opening and closing <code>&lt;script&gt;</code> tags!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:507
+msgid "embedded script code (please include <code>&lt;script&gt;</code> tags)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:515
+msgid "Multimedia Box Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:523
+msgid "Multimedia Box Image"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:524
+msgid "Even if you have the multimedia box disabled by default, you can display any custom image you like in the box on this particular post. To accomplish this, simply upload your own image or use the <em>Add an Image</em> button above, and then paste the image <strong>Link <acronym title=\"Uniform Resource Locator\">URL</acronym></strong> in the field below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:525
+msgid "multimedia box image <acronym title=\"Uniform Resource Locator\">URL</acronym> (including <code>http://</code>)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:534
+msgid "Multimedia Box Video"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:535
+msgid "Like the image box above, you can override your multimedia box settings and display any video you want on this particular post. Upload a video using the <em>Add Video</em> button, and then paste the video embed code in the box below. Also, please note that you may need to change the width and height attributes of the video in order to make it fit perfectly inside your multimedia box."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:536
+msgid "video embed code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:545
+msgid "Custom Multimedia Box Code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:546
+msgid "If you want to get really fancy, you can inject your own custom <acronym title=\"HyperText Markup Language\">HTML</acronym> into the multimedia box on this post by entering your code in the box below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:547
+msgid "custom <acronym title=\"HyperText Markup Language\">HTML</acronym>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:556
+msgid "Access the Multimedia Box Hook"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:557
+msgid "Real ninjas do it with hooks, and if you want to add some amazing functionality to the multimedia box on this post (with <acronym title=\"Recursive acronym for Hypertext Preprocessor\">PHP</acronym>, perhaps), check the box below. Also, if you&#8217;re already using the multimedia box hook by default, there&#8217;s no need to check this box."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/admin/options_post.php:558
+msgid "access the multimedia box hook, <code>thesis_hook_multimedia_box</code>, on this post"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:64
+#, php-format
+msgid "You must <a href=\"%s\" rel=\"nofollow\">log in</a> to post a comment."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:71
+msgid "Cancel reply"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:73
+msgid "Leave a Comment"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:79
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" rel=\"nofollow\">%2$s</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:79
+#, php-format
+msgid "<a href=\"%s\" title=\"Log out of this account\" rel=\"nofollow\">Logout &rarr;</a>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:82
+msgid "Name"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:82
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:83
+msgid " <span class=\"required\" title=\"Required\">*</span>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:83
+msgid "E-mail"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:84
+msgid "Website"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:96
+msgid "Submit"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:109
+msgid "Comments on this entry are closed."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:249
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:261
+msgid "edit"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/comments.php:282
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:25
+msgid "Favicon Upload Error"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:54
+msgid "Thesis Favicon Uploader"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:58
+msgid "Favicon updated!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:60
+msgid "Favicon removed!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:62
+msgid "<strong>Whoops!</strong> Your favicon was not saved because you attempted to upload an improper file type. Thesis will accept favicons with a <code>.ico</code> or <code>.png</code> extension."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:68
+msgid "&larr; That&#8217;s your favicon."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:68
+msgid "Click here to remove favicon"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:68
+msgid "Click here to remove it."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/favicon.php:72
+msgid "Choose a <code>.ico</code> or <code>.png</code> image file with a square aspect ratio from your computer:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/head.php:30
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:569
+msgid "&#8212;"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/head.php:48
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:315
+msgid "Search:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/head.php:59
+msgid "Page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/loop.php:185
+msgid "Sorry, but no results were found."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/loop.php:209
+msgid "There&#8217;s nothing here."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/loop.php:212
+#, php-format
+msgid "If there were posts in the database, you&#8217;d be seeing them. Try <a href=\"%s\">creating a post</a>, and see if that solves your problem."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:196
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:24
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:32
+msgid "comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:201
+msgid "avatar"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:208
+msgid "comment numbers"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:212
+msgid "comment author"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:216
+msgid "comment date"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:224
+msgid "edit comment link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:230
+msgid "comment text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:234
+msgid "comment reply link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:241
+msgid "comment form"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:246
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:37
+msgid "trackbacks"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:257
+msgid "post title"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:261
+msgid "author name"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:265
+msgid "date"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:269
+msgid "edit post link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:273
+msgid "primary category"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:277
+msgid "post excerpt"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:281
+msgid "tags"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:285
+msgid "number of comments link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:289
+msgid "link to full article"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:526
+msgid "Easy there, homey. You don&#8217;t have admin privileges to change theme options."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:786
+msgid "Thesis Design Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:806
+msgid "Site Layout"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:808
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:840
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:869
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:879
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:899
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:906
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:927
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:947
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:959
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:968
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:976
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:982
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:994
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1017
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1044
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1090
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1253
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1275
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1285
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1292
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1326
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1351
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1384
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1398
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1401
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1426
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1441
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1458
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1530
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1579
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1586
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1601
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:562
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:576
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:579
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:593
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:607
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:621
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:633
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:639
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:649
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:662
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:675
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:702
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:715
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:749
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:771
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:792
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:809
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:830
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:857
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:867
+msgid "Show/hide additional information"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:808
+msgid "Columns"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:810
+msgid "Select the number of columns you want in your layout:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:813
+msgid "3 columns"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:814
+msgid "2 columns"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:815
+msgid "1 column"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:818
+msgid "Enter a width between 300 and 934 pixels for your <strong>content column</strong>:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:821
+msgid "px"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:824
+msgid "Enter a width between 60 and 500 pixels for <strong>sidebar 1</strong>:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:827
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:834
+msgid "px (default is 195)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:831
+msgid "Enter a width between 60 and 500 pixels for <strong>sidebar 2</strong>:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:840
+msgid "Column Order"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:844
+msgid "Content, Sidebar 1, Sidebar 2 <span>&darr;</span>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:848
+msgid "Sidebar 1, Content, Sidebar 2 <span>&darr;</span>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:852
+msgid "Sidebar 1, Sidebar 2, Content <span>&darr;</span>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:858
+msgid "Content, Sidebar 1 <span>&darr;</span>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:862
+msgid "Sidebar 1, Content <span>&darr;</span>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:869
+msgid "<acronym title=\"HyperText Markup Language\">HTML</acronym> Framework"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:871
+msgid "If you&#8217;re customizing your Thesis design, you may wish to employ a different <acronym title=\"HyperText Markup Language\">HTML</acronym> framework in order to better suit your design needs. There are two primary types of frameworks that should accommodate just about any type of design&#8212;<strong>page</strong> and <strong>full-width</strong>. By default, Thesis uses the page framework, but you can change that below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:873
+msgid "Page framework"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:874
+msgid "Full-width framework"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:879
+msgid "Outer Page Padding"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:881
+msgid "By default, Thesis adds whitespace around your layout for styling purposes. One unit of whitespace is equal to the line height of the text in your content area, and by default, Thesis adds one unit of whitespace around your layout. How many units of whitespace would you like around your layout?"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:897
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1579
+msgid "Display Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:899
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1638
+msgid "Header"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:901
+msgid "Show site name in header"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:902
+msgid "Show site tagline in header"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:906
+msgid "Bylines"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:910
+msgid "Show author name in <strong>post</strong> byline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:913
+msgid "Link author names to archives"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:914
+msgid "Add <code>nofollow</code> to author links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:918
+msgid "Show published-on date in <strong>post</strong> byline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:919
+msgid "Show author name in <strong>page</strong> byline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:920
+msgid "Show published-on date in <strong>page</strong> byline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:921
+msgid "Show number of comments in byline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:922
+msgid "Show <strong>post</strong> categories"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:927
+msgid "Posts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:929
+msgid "The display setting you select below only affects your <strong>features</strong>; teasers (if you&#8217;re using them) are always displayed in excerpt format."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:931
+msgid "Display full post content"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:932
+msgid "Display post excerpts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:934
+msgid "&#8220;Read More&#8221; link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:935
+msgid "This is the clickthrough text on home and archive pages that appears on any post where you use the <code>&lt;!--more--&gt;</code> tag:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:938
+msgid "clickthrough text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:940
+msgid "Single entry pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:942
+msgid "Show previous/next post links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:947
+msgid "Archives"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:949
+msgid "Select a display format for your archive pages:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:951
+msgid "Titles only"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:952
+msgid "Everything&#8217;s a teaser!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:953
+msgid "Same as your home page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:954
+msgid "Post excerpts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:959
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1398
+msgid "Comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:962
+msgid "Disable comments on all <strong>pages</strong>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:963
+msgid "If comments are closed, display a message"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:968
+msgid "Tagging"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:970
+msgid "Show tags on single entry pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:971
+msgid "Show tags on index and archives pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:972
+msgid "Add <code>nofollow</code> to tag links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:976
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1683
+msgid "Sidebars"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:978
+msgid "Show default sidebar widgets"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:982
+msgid "Administration"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:985
+msgid "Show edit post links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:986
+msgid "Show admin link in footer"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:992
+msgid "Home Page Display Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:994
+msgid "Features &amp; Teasers"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:996
+msgid "Below, you can select the number of &#8220;featured&#8221; posts to show (normal format) on your home page, and the rest of your posts will be displayed as teasers. In this context, teasers are simply boxes that take up half the width of your content area and contain whatever you specify in your <a href=\"#teaser-options\">Teaser Display Options</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:997
+msgid "Number of featured posts to show"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1013
+msgid "<strong>Tip:</strong> To turn off teasers entirely, simply choose the largest value from the dropdown list above&#8212;that way, <em>all</em> your posts will be shown as features."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1028
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1605
+msgid "JavaScripts (include <code>&lt;script&gt;</code> tags!)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1042
+msgid "Fonts, Colors, and More!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1044
+msgid "Body (and Content Area)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1046
+msgid "The font you select here will be the main font on your site. You can tweak individual fonts and sizes below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1059
+msgid "* denotes a web-safe font.<br />G denotes a Google Font Directory font."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1060
+msgid "Add some personal flair to your design by using the controls below. You&#8217;ll find even more controls in the other boxes in this section, so you&#8217;ve got lots of ways to let your creativity flow!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1063
+msgid "site background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1067
+msgid "page background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1071
+msgid "primary text color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1075
+msgid "primary link color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1079
+msgid "Add a cool shadow effect to your layout"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1080
+msgid "Show interior layout borders"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1134
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1188
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1241
+msgid "text color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1140
+msgid "link text color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1144
+msgid "link text hover color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1148
+msgid "current link text color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1152
+msgid "current parent link text color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1156
+msgid "link background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1160
+msgid "hover background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1164
+msgid "current background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1168
+msgid "current parent background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1172
+msgid "nav border width (px)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1176
+msgid "nav border color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1180
+msgid "submenu width (px)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1192
+msgid "image box background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1196
+msgid "video box background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1200
+msgid "custom box background color"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1251
+msgid "Teasers"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1253
+msgid "Teaser Display Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1255
+msgid "Pick and choose what you want your teasers to display! Drag and drop the elements to change the order in which they appear on your site."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1275
+msgid "Teaser Date Format"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1281
+msgid "Custom: "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1285
+msgid "Link to Full Article"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1288
+msgid "link display text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1292
+msgid "Teaser Font Sizes"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1294
+msgid "Use the controls below to fine-tune the font sizes of your teaser elements."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1311
+msgid " font size"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1324
+msgid "Post Images and Thumbnails"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1326
+msgid "Default Post Image Settings"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1328
+msgid "Post images are a perfect way to add more visual punch to your site. To use them, simply specify a post image in the appropriate field on the post editing screen. During the normal stream of content, post images will display full-size, and by default, they will be automatically cropped into smaller thumbnail images for use in other areas (like teasers and excerpts)."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1329
+msgid "Don&#8217;t want Thesis to auto-crop your thumbnails? No worries&#8212;you can override this by uploading your own thumbnail image on <em>any</em> post or page. Also, it&#8217;s worth noting that you can override <em>all</em> of the settings below on the post editing screen."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1330
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1353
+msgid "Horizontal position"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1332
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1355
+msgid "Flush left with no text wrap"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1333
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1356
+msgid "Left with text wrap"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1334
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1357
+msgid "Right with text wrap"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1335
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1358
+msgid "Centered (no wrap)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1337
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1360
+msgid "Vertical position"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1339
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1362
+msgid "Above headline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1340
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1363
+msgid "Below headline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1341
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1364
+msgid "Before post/page content"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1344
+msgid "Add a frame to post images"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1345
+msgid "Show images on single entry pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1346
+msgid "Show images on archives pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1351
+msgid "Default Thumbnail Settings"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1367
+msgid "Add a frame to thumbnail images"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1369
+msgid "If you do not supply a thumbnail image on a particular post (in addition to or in place of a post image), the post image that you upload will be auto-cropped to these dimensions and re-saved for use as a thumbnail:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1372
+msgid "default thumbnail width"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1376
+msgid "default thumbnail height"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1382
+msgid "Comment Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1384
+msgid "Display Settings"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1386
+msgid "Select the elements that you&#8217;d like to display, and then drag and drop them into the order that you want!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1401
+msgid "Comment Meta"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1413
+msgid "Set your avatar size (between 1 and 96 px)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1416
+msgid "Show comment time"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1420
+msgid "Comment date format"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1422
+#, php-format
+msgid "<strong>Note:</strong> Comment numbers will not display if you have threading <em>and</em> pagination enabled in your <a href=\"%s\">comment settings</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1426
+msgid "Comment Body"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1441
+msgid "Trackbacks"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1444
+msgid "Show trackback date"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1449
+msgid "Trackback date format"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1456
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1676
+msgid "Multimedia Box"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1458
+msgid "Default Settings"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1460
+msgid "The default multimedia box setting applies to your home page, archive pages (category, tag, date-based, and author-based), search pages, and 404 pages. You can override the default setting on any individual post or page by utilizing the multimedia box controls on the post editing screen."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1463
+msgid "Do not show box"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1464
+msgid "Rotating images"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1465
+msgid "Embed a video"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1466
+msgid "Custom code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1469
+msgid "Remember, even though you&#8217;ve disabled the multimedia box here, you can activate it on single posts or pages by using the multimedia box options on the post editing screen."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1470
+#, php-format
+msgid "Any images you upload to your <a href=\"%s\">rotator folder</a> will automatically appear in the list below."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1472
+msgid "Define Image Alt Tags and Links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1473
+msgid "It&#8217;s a good practice to add descriptive alt tags to every image you place on your site. Use the input fields below to add customized alt tags to your rotating images."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1489
+msgid "alt text for "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1489
+msgid "[+] add link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1493
+msgid "link <acronym title=\"Uniform Resource Locator\">URL</acronym> for "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1502
+#, php-format
+msgid "You don&#8217;t have any images to rotate! Try adding some images to your <a href=\"%s\">rotator folder</a>, and then come back here to edit your alt tags."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1508
+msgid "Embedded Video Code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1509
+msgid "Place your video embed code in the box below, and it will appear in the multimedia box by default."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1511
+msgid "Video embed code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1517
+msgid "You&#8217;ve now activated the special multimedia box hook, <code>thesis_hook_multimedia_box</code>, and you can use this to make the multimedia box do just about anything via your custom functions file, <code>custom_functions.php</code>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1518
+msgid "If you like, you can override this hook by placing your own custom <acronym title=\"HyperText Markup Language\">HTML</acronym> in the box below. Even if you do this, you can still access the hook on any post or page by selecting the &#8220;Access the Multimedia Box Hook&#8221; checkbox on the post editing screen."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1520
+msgid "Custom multimedia box code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1528
+msgid "Feature Box"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1530
+msgid "Placement"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1532
+msgid "Select a placement setting below, and then depending on your site&#8217;s configuration, you&#8217;ll be presented with different options for managing your feature box."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1535
+msgid "Do not use feature box"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1536
+msgid "In your content column"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1537
+msgid "Full-width above content and sidebars"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1538
+msgid "Full-width above header area"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1542
+msgid "Show feature box&hellip;"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1547
+msgid "on front page <em>only</em>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1548
+msgid "on blog page <em>only</em>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1549
+msgid "on front page and blog page"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1554
+msgid "on home page <em>only</em>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1558
+msgid "sitewide"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1562
+msgid "Display feature box after post&hellip;"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1565
+msgid "Above all posts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1580
+msgid "Right now, the only thing you can do with your shiny new feature box is access a hook, <code>thesis_hook_feature_box</code>. Expect your display options to improve dramatically in a future release!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1586
+msgid "Sitewide <acronym title=\"JavaScript\">JS</acronym> Libraries"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1588
+msgid "Include cached versions of the most popular <acronym title=\"JavaScript\">JS</acronym> libraries by selecting from the list below. These libraries will be served sitewide, but you can fine-tune your <acronym title=\"JavaScript\">JS</acronym> libraries on any post or page and on your home page."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1594
+#, php-format
+msgid "%1$s <a href=\"%2$s\" target=\"_blank\">[?]</a>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1601
+msgid "Embedded Scripts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1603
+msgid "The scripts you add here will be served after the <acronym title=\"HyperText Markup Language\">HTML</acronym> on <em>every page of your site</em>. This is the preferred position because it prevents the scripts from interrupting the page load."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1624
+msgid "Content Area"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1625
+msgid "The size you select will be the <em>primary</em> font size used in your post and comment areas. <strong>Note:</strong> The font used in this area is inherited from the body."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1631
+msgid "Nav Menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1632
+msgid "The font and size you select will be used in your nav menu items:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1639
+msgid "The font and size you select will be used in your site title:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1644
+msgid "Tagline"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1645
+msgid "By default, your tagline will be rendered in the same font as your site title. If you like, you can change your tagline font here:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1650
+msgid "Headlines"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1651
+msgid "The font and size you select will be used in your post and page headlines:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1656
+msgid "Sub-headlines"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1657
+msgid "By default, sub-headlines (<code>&lt;h2&gt;</code> or <code>&lt;h3&gt;</code>) inside your content are rendered in the same font as your headlines. If you like, you can change your sub-headline font here:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1662
+msgid "Bylines and Post Meta Data"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1663
+msgid "The font and size you select will be used in your bylines:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1669
+msgid "Code"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1670
+msgid "The font you select will be used to render both <code>&lt;code&gt;</code> and <code>&lt;pre&gt;</code> within your posts. The size you select will be used for preformatted code (<code>&lt;pre&gt;</code>):"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1677
+msgid "The font and size you select will be used in your multimedia box:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1684
+msgid "The font and size you select will be the <em>primary</em> font and size used in your sidebars:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1689
+msgid "Sidebar Headings"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1690
+msgid "By default, sidebar headings are rendered in the same font as the sidebars. If you like, you can change your sidebar heading font here:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1695
+msgid "Footer"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_design.php:1696
+msgid "The font and size you select will be used in your footer:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:540
+msgid "Thesis Site Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:560
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:830
+msgid "Document Head"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:562
+msgid "Title Tag Settings"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:564
+msgid "As far as <acronym title=\"Search Engine Optimization\">SEO</acronym> is concerned, this is the single most important element on your site. For all pages except the home page, Thesis will construct your <code>&lt;title&gt;</code> tags automatically according to the settings below, but you can override these settings by adding a custom <code>&lt;title&gt;</code> to any post or page via the post editing screen."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:566
+msgid "Append site name to page titles"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:570
+msgid "Character separator in titles"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:572
+#, php-format
+msgid "You can set your home page <code>&lt;title&gt;</code> tag in the Home Page SEO box on this page. For categories and tags, visit the <a href=\"%1$s\">edit category</a> and <a href=\"%2$s\">edit tag</a> pages within WordPress."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:579
+msgid "Noindex"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:581
+msgid "Adding the <code>noindex</code> robot meta tag is a great way to fine-tune your site&#8217;s <acronym title=\"Search Engine Optimization\">SEO</acronym> by streamlining the amount of pages that get indexed by the search engines. The options below will help you prevent the indexing of &#8220;bloat&#8221; pages that do nothing but dilute your search results and keep you from ranking as well as you should."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:586
+#, php-format
+msgid "<code>noindex</code> %s pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:593
+msgid "Nofollow"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:595
+msgid "The <code>nofollow</code> robot meta tag is another useful tool for nailing down your site&#8217;s <acronym title=\"Search Engine Optimization\">SEO</acronym>. Links from pages with the <code>nofollow</code> meta tag won&#8217;t pass any juice."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:600
+#, php-format
+msgid "Add <code>nofollow</code> to %s pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:607
+msgid "Noarchive"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:609
+msgid "The <code>noarchive</code> robot meta tag prevents search engines and Internet archive services from saving cached versions of pages on your site. Generally, people use this to protect their privacy, but there are certainly times when having access to archived versions of your pages might prove useful."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:614
+#, php-format
+msgid "Add <code>noarchive</code> to %s pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:621
+msgid "Directory Tags"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:623
+msgid "Using the <code>noodp</code> robot meta tag will prevent search engines from displaying Open Directory Project (DMOZ) listings in your meta descriptions. The <code>noydir</code> tag is pretty much the same, except that it only affects the Yahoo! Directory. Both of these options are sitewide."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:625
+msgid "Add <code>noodp</code> to your site"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:626
+msgid "Add <code>noydir</code> to your site"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:633
+msgid "Canonical <acronym title=\"Uniform Resource Locator\">URL</acronym>s"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:635
+msgid "Add canonical <acronym title=\"Uniform Resource Locator\">URL</acronym>s to your site"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:639
+msgid "Syndication/Feed <acronym title=\"Uniform Resource Locator\">URL</acronym>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:641
+#, php-format
+msgid "If you&#8217;re using a service like <a href=\"%s\">Feedburner</a> to manage your <acronym title=\"Really Simple Syndication\">RSS</acronym> feed, you should enter the <acronym title=\"Uniform Resource Locator\">URL</acronym> of your feed in the box below. If you&#8217;d prefer to use the default WordPress feed, simply leave this box blank."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:644
+msgid "Feed <acronym title=\"Uniform Resource Locator\">URL</acronym> (including &#8216;http://&#8217;)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:649
+msgid "Additional Scripts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:651
+#, php-format
+msgid "If you need to add scripts to your document <code>&lt;head&gt;</code>, you should enter them in the box below; however, if you&#8217;re adding stat-tracking code, you should add that to the <a href=\"%s\">Stats and Scripts section below</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:653
+msgid "Additional <code>&lt;head&gt;</code> scripts (code)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:660
+msgid "Stats Software/Scripts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:662
+msgid "Stat and Tracking Scripts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:664
+msgid "If you&#8217;ve got a stat-tracking script (from, say, Mint or Google Analytics), you&#8217;ll want to place it here. Anything you add here will be served after the <acronym title=\"HyperText Markup Language\">HTML</acronym> on <em>every page of your site</em>. This is the preferred position because it prevents the scripts from interrupting the page load."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:666
+msgid "Tracking scripts (include <code>&lt;script&gt;</code> tags!)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:673
+msgid "Custom Stylesheet Options"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:675
+msgid "Enable Stylesheet"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:677
+msgid "The only reason to deselect this option is to reduce the total number of <code>http</code> requests your site makes because this will improve your page load speed. If you&#8217;re not using your custom stylesheet, then you may consider deselecting this option."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:680
+msgid "Your custom stylesheet <strong>will not work</strong> until you rename your <code>/custom-sample</code> folder to <code>/custom</code>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:683
+msgid "Enable custom stylesheet"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:696
+msgid "Navigation Menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:702
+msgid "Select Menu Type"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:705
+msgid "WordPress nav menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:706
+msgid "Thesis nav menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:715
+msgid "Pages"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:717
+msgid "Start by selecting the pages you want to include in your nav menu. Next, drag and drop the pages to change their display order (topmost item displays first), and if you <em>really</em> want to get crazy, you can even edit the display text on each item. <strong>Try it!</strong>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:718
+msgid "Thesis features automatic dropdown menus, so if you have nested pages or categories, you&#8217;ll save space <em>and</em> gain style points with your slick new nav menu!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:749
+msgid "Categories"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:751
+msgid "If you&#8217;d like to include category pages in your nav menu, simply select the appropriate categories from the list below (you can select more than one)."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:754
+msgid "No category page links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:771
+msgid "Add More Links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:773
+#, php-format
+msgid "You can insert additional navigation links on the <a href=\"%1$s\">Manage Links</a> page. To ensure that things go smoothly, you should first <a href=\"%2$s\">create a link category</a> solely for your navigation menu, and then make sure you place your new links in that category. Once you&#8217;ve done that, you can select your category below to include it in your nav menu."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:776
+msgid "No additional links"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:792
+msgid "Home Link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:795
+msgid "Show home link in nav menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:800
+msgid "home link text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:803
+msgid "Add <code>nofollow</code> to home link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:809
+msgid "Feed Link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:812
+msgid "Show feed link in nav menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:817
+msgid "Change your feed link text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:820
+msgid "Add <code>nofollow</code> to feed link"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:828
+msgid "Home Page <acronym title=\"Search Engine Optimization\">SEO</acronym>"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:834
+msgid "home page <code>&lt;title&gt;</code> tag"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:838
+msgid "home page <code>&lt;meta&gt;</code> description"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:842
+msgid "home page <code>&lt;meta&gt;</code> keywords"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:855
+msgid "Publishing Tools"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:857
+msgid "Windows Live Writer"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:860
+msgid "Enable support for Windows Live Writer"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:867
+msgid "Change Save Button Text"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/classes/options_site.php:870
+msgid "not recommended (heh)"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:8
+msgid "Comments on this entry are closed"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:24
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:31
+msgid "comment"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:36
+msgid "trackback"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:44
+msgid "add one now"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:46
+msgid "read it below or "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:46
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:48
+msgid "add one"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:48
+msgid "read them below or "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:90
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:100
+msgid "Previous Comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:95
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/comments.php:104
+msgid "Next Comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:112
+msgid "on"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:122
+msgid "0 comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:122
+msgid "1 comment"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:122
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:151
+msgid "by"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:158
+msgid "in"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:168
+msgid "Tagged as:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:217
+msgid "[click to continue&hellip;]"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:226
+msgid "Previous Entries"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:227
+msgid "Next Entries"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:269
+msgid "Previous post: "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/content.php:270
+msgid "Next post: "
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/document.php:93
+msgid "You 404&#8217;d it. Gnarly, dude."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/document.php:98
+msgid "Surfin&#8217; ain&#8217;t easy, and right now, you&#8217;re lost at sea. But don&#8217;t worry; simply pick an option from the list below, and you&#8217;ll be back out riding the waves of the Internet in no time."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/document.php:100
+msgid "Hit the &#8220;back&#8221; button on your browser. It&#8217;s perfect for situations like this!"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/document.php:101
+#, php-format
+msgid "Head on over to the <a href=\"%s\" rel=\"nofollow\">home page</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/document.php:102
+msgid "Punt."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/document.php:109
+msgid "WordPress Admin"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/launch.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/nav_menu.php:155
+msgid "Home"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/nav_menu.php:161
+msgid "Subscribe"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/teasers.php:110
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/teasers.php:110
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/teasers.php:110
+msgid "<span>%</span> comments"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/teasers.php:121
+msgid "Read the full article &rarr;"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:16
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:17
+msgid "Search"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:18
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:19
+msgid "Subscriptions"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:20
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:21
+msgid "Google Custom Search"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:30
+msgid "To search, type and hit enter"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:68
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:121
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:170
+msgid "Title:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:125
+msgid "Describe your subscription options:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:129
+msgid "<acronym title=\"Really Simple Syndication\">RSS</acronym> link text:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:133
+msgid "Email link and text:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:174
+msgid "Google Custom Search code:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:217
+msgid "Recent Posts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:225
+msgid "More"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:242
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:244
+msgid "on this post"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:249
+msgid "Click to read"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:321
+msgid "Show recent posts from this category:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:323
+msgid "All recent posts"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:337
+msgid "Title (optional, defaults to category name):"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:341
+msgid "Number of posts to show:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:353
+msgid "Show number of comments?"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:363
+msgid "Show recent posts from any category or your entire site"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:365
+msgid "Killer Recent Entries"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:443
+msgid "Default Widget"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/functions/widgets.php:444
+#, php-format
+msgid "This is Sidebar %1$d. You can edit the content that appears here by visiting your <a href=\"%2$s\">Widgets panel</a> and modifying the <em>current widgets</em> in Sidebar %1$d. Or, if you want to be a true ninja, you can add your own content to this sidebar by using the <a href=\"%3$s\">appropriate hooks</a>."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/html/footer.php:27
+#, php-format
+msgid "Get smart with the <a href=\"%s\">Thesis WordPress Theme</a> from DIYthemes."
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/html/templates.php:4
+msgid "By Month:"
+msgstr ""
+
+#: /Users/pearsonified/Desktop/thesis_18/lib/html/templates.php:8
+msgid "By Category:"
+msgstr ""
+

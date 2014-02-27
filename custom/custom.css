@@ -1,0 +1,83 @@
+/*
+File:			custom.css
+Description:	Custom styles for Thesis
+More Info:		http://diythemes.com/thesis/rtfm/custom-css/
+*/
+    /* This line adds your custom background graphic */
+    body.custom {
+      background: #f9f5ef;
+    /*background: #fff url(http://farm8.staticflickr.com/7142/6723782697_a5856ac53f_b.jpg) 50% 0%; repeat; background-attachment: scroll;*/
+ /*margin: 0 auto;*/
+    }
+
+    .custom #container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+
+    .custom #page {
+    background: #f9f5ef;
+    }
+
+.custom #header { border-bottom:none;
+height:400px;
+padding-top:0;
+padding-bottom:0;
+background:url(http://i386.photobucket.com/albums/oo310/shabbycreations2/banner-1.jpg)
+center no-repeat; }
+
+.custom #header #logo { display:none; }
+
+.custom #header #tagline { display:none; }
+
+.custom li.widget {margin-bottom: 0em;}
+.custom .sidebar h3 {font-weight: bold; color: #f9f5ef; padding: 0px 5px; background: #f9f5ef;}
+
+/* Featured */
+.custom #feature_box {
+background: #f9f5ef;
+border: none;
+margin-right: 0px;
+padding-left: 15px;
+padding-right: 0;
+}
+a.featured {
+background: url('images/bully content mini.jpg') repeat #fff center;
+position: relative;
+display: block;
+margin-top: 0em;
+height: 30px;
+border: none;
+}
+
+/*.widget_recent_entries, .widget_categories { margin-left: 25px; }*/
+/*.widget_archive { margin-left: 50px; }*/
+.widget_archive { text-align: center; }
+.blogroll { margin-left: 35px; }
+.adsense_sidebar {text-align:center}
+.adsense_leaderboard {text-align:center}
+
+.custom.shop #header {
+  background: url('images/shop_header.jpg') 0 0 no-repeat;
+  height: 355px;
+}
+
+.menu { display: none }
+
+.pin-it-btn-wrapper { text-align: center; }
+
+.shareaholic-show-on-load { margin-top: 150px !important; margin-left: 0px !important; }
+
+/*
+Author: Aky Joe
+URL: http://akyjoe.thecreatology.com
+*/
+#slim-subscribe{ background:#E2F7A8; border: 1px dashed #A6DFFA; height: 70px; margin: 20px 0 0; font-family: Arial;}
+#slim-subscribe span{color: #f60; text-decoration: none; font-family: comic Sans MS; font-size: 26px; line-height: 65px; margin: 0 0 0 20px;}
+#slim-subscribe h4{font-size: 12px; margin:5px 0;}
+#slim-subscribe h4 a:hover{text-decoration: underline;}
+#slim-subscribe form{float: right; margin: 5px 20px 5px 0;}
+.txt-blog,.txt-blog:focus{background:#fff; border: 1px solid #b7cb80; border-radius:5px; padding: 6px 10px; width: 180px; font-size: 15px; color: #888;}
+.btn-blog,.btn-blog:focus{background:#555; border: 0; border-radius:5px; padding: 6px 10px; font-size: 15px; color: #fff; text-shadow:1px 0 2px #333;}
+.btn-blog:hover{background:#333;}
+
